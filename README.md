@@ -6,7 +6,9 @@ This repository contains the course materials for the course **"Brain Imaging"**
 
 In this course, you will learn what fMRI can (and cannot) do, what it measures, and what research questions it address. You will learn the essentials of fMRI, from MR physics to the neurophysiological underpinnings, how to design an experiment and appropriate analysis, and how to make robust statistical inferences and interpretations. Most importantly, you will get an idea of the awesome possibilities of fMRI, but also its caveats and pitfalls, and build a solid foundation for further learning.
 
-<img width="360" height="473" alt="Screenshot 2025-11-20 at 14 07 09" src="[https://github.com/user-attachments/assets/bec15545-5d24-4bfd-922d-aa3961701d9e](https://github.com/Naubody/Brain_imaging_course/blob/main/Media/MReye_gif.mp4)" />
+<video width="360" height="473" autoplay loop muted playsinline>
+  <source src="https://github.com/Naubody/Brain_imaging_course/blob/main/Media/MReye_gif.mp4?raw=true" type="video/mp4">
+</video>
 
 Your brain (and eyes) while
 reading this syllabus
